@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/visa-hunter/static/css/main.20fbf577.css",
-    "main.js": "/visa-hunter/static/js/main.8bd2409e.js",
+    "main.js": "/visa-hunter/static/js/main.6aa284ab.js",
     "index.html": "/visa-hunter/index.html",
     "main.20fbf577.css.map": "/visa-hunter/static/css/main.20fbf577.css.map",
-    "main.8bd2409e.js.map": "/visa-hunter/static/js/main.8bd2409e.js.map"
+    "main.6aa284ab.js.map": "/visa-hunter/static/js/main.6aa284ab.js.map"
   },
   "entrypoints": [
     "static/css/main.20fbf577.css",
-    "static/js/main.8bd2409e.js"
+    "static/js/main.6aa284ab.js"
   ]
 }
